@@ -44,7 +44,6 @@ libssh2
 libusb
 libusb-compat
 libvorbis
-liquidprompt
 lua
 macvim
 makedepend
@@ -62,6 +61,8 @@ pkg-config
 popt
 procmail
 pth
+pyenv
+pyenv-virtualenv
 python
 python3
 rbenv
@@ -82,4 +83,3 @@ wget
 x264
 xvid
 xz
-z
