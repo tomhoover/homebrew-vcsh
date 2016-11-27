@@ -1,6 +1,7 @@
 autoconf
 bash-completion
 boost
+cli53
 colordiff
 cscope
 dirmngr
@@ -17,6 +18,7 @@ gettext
 git
 glib
 gmp
+gnu-sed
 gnupg
 gnupg2
 go
