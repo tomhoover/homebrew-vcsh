@@ -80,6 +80,7 @@ brew 'mp4v2'
 brew 'mplayer'
 brew 'mr'
 brew 'node'
+brew 'parallel'
 brew 'pkg-config'
 brew 'procmail'
 brew 'pyenv'
@@ -90,7 +91,7 @@ brew 'rmlint'
 brew 's3cmd'
 brew 'scons'
 brew 'shellcheck'
-brew 'sleepwatcher'
+brew 'sleepwatcher', restart_service: true
 brew 'sphinx-doc'
 brew 'ssh-copy-id'
 brew 'tree'
@@ -148,7 +149,6 @@ mas 'Home Design 3D', id: 955414427
 mas 'Microsoft OneNote', id: 784801555
 mas 'Tap Forms', id: 494995266
 mas 'DaisyDisk', id: 411643860
-mas 'Install Mac OS X Lion', id: 444303913
 mas 'iMovie', id: 408981434
 mas 'XnConvert', id: 436203431
 mas 'Numbers', id: 409203825

@@ -59,6 +59,7 @@ mplayer
 mr
 node
 openssl
+parallel
 pcre
 pdfjam
 pinentry
