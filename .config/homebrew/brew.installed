@@ -79,6 +79,7 @@ mr
 nettle
 node
 openssl
+openssl@1.1
 pango
 paperkey
 parallel
@@ -99,6 +100,7 @@ python
 python3
 quvi
 rbenv
+rclone
 readline
 rmlint
 ruby-build
