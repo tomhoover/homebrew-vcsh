@@ -176,6 +176,7 @@ mas 'Byword', id: 420212497
 mas 'EasyFind', id: 411673888
 mas 'Pages', id: 409201541
 mas 'Slack', id: 803453959
+mas 'Install OS X El Capitan', id: 1018109117
 mas 'Filters for Photos', id: 1083965373
 mas 'Home Design 3D', id: 955414427
 mas 'Tap Forms', id: 494995266
