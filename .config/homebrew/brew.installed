@@ -16,6 +16,7 @@ flac
 fontconfig
 freetype
 gawk
+gd
 gdbm
 gdk-pixbuf
 getmail
@@ -65,6 +66,8 @@ librsync
 libssh2
 libtasn1
 libtiff
+libtool
+libunistring
 libusb
 libusb-compat
 libvorbis
@@ -82,6 +85,7 @@ nettle
 node
 openssl
 openssl@1.1
+p11-kit
 pango
 paperkey
 parallel
@@ -118,6 +122,7 @@ ssh-copy-id
 tree
 vcsh
 vim
+webp
 wget
 x264
 xdot

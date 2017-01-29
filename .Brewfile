@@ -53,14 +53,18 @@ brew 'gmp'
 brew 'mpfr'
 brew 'readline'
 brew 'gawk'
-brew 'gdbm'
 brew 'jpeg'
 brew 'libtiff'
+brew 'webp'
+brew 'gd'
+brew 'gdbm'
 brew 'shared-mime-info'
 brew 'gdk-pixbuf'
 brew 'getmail'
 brew 'libtasn1'
+brew 'libunistring'
 brew 'nettle'
+brew 'p11-kit'
 brew 'gnutls'
 brew 'gsasl'
 brew 'libidn'
@@ -71,6 +75,7 @@ brew 'libmagic'
 brew 'lua'
 brew 'libquvi'
 brew 'quvi'
+brew 'libtool'
 brew 'graphviz'
 brew 'hicolor-icon-theme'
 brew 'icu4c'
@@ -150,6 +155,7 @@ cask 'rowanj-gitx'
 cask 'scapple'
 cask 'skitch'
 cask 'skype'
+cask 'torbrowser'
 cask 'transmission'
 cask 'vlc'
 mas 'iThoughtsX', id: 720669838
@@ -175,8 +181,6 @@ mas 'Moom', id: 419330170
 mas 'Byword', id: 420212497
 mas 'EasyFind', id: 411673888
 mas 'Pages', id: 409201541
-mas 'Slack', id: 803453959
-mas 'Install OS X El Capitan', id: 1018109117
 mas 'Filters for Photos', id: 1083965373
 mas 'Home Design 3D', id: 955414427
 mas 'Tap Forms', id: 494995266
