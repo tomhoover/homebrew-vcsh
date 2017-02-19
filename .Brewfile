@@ -172,6 +172,7 @@ mas 'PCalc', id: 403504866
 mas 'PDF Expert', id: 1055273043
 mas 'SiteSucker', id: 442168834
 mas 'Aperture', id: 408981426
+mas 'Polarr Photo Editor', id: 1058273036
 mas 'Home Inventory', id: 413564952
 mas 'Bible Study', id: 472790630
 mas 'Pocket', id: 568494494
